@@ -85,7 +85,7 @@ If you want to use original pretrained weights for YOLOv3:
 1. My test environment is
     - Python 3.6
     - Keras 2.2.1
-    - tensorflow 1.13.1
+    - tensorflow 1.13.1  
   The original author's (of keras-yolo3) test environment is
     - Python 3.5.2
     - Keras 2.1.5
