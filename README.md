@@ -7,7 +7,10 @@
 
 The fruits classifying project I did in the summer with my classmates. As the conduct and main coder, we decided using the keras-yolo3(https://github.com/qqwweee/keras-yolo3)in github to make it work. Of course, based on the original projects we wrote our own code to make it. Finally, we successfully build a labeled dataset on our own, and achieved good results.
 
+## Sample output
 
+I choose some of the output to visualize the project, using yolov3 to detect the pedicles of fruits also classify the fruits.  
+<img src="https://github.com/WilliamLambertCN/fruits-yolov3/blob/master/Samples_output/passion-xw/passionfruit_1079.jpg" width="450" height="450" />
 ---
 
 ## Quick Start
