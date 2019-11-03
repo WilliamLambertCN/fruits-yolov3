@@ -1,10 +1,11 @@
-# keras-yolo3
+# fruits-yolo3 
+(refering to keras-yolo3)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
 
-A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
+The fruits classifying project I did in the summer with my classmates. As the conduct and main coder, we decided using the keras-yolo3(https://github.com/qqwweee/keras-yolo3)in github to make it work. Of course, based on the original projects we wrote our own code to make it. Finally, we successfully build a labeled dataset on our own, and achieved good results.
 
 
 ---
@@ -81,7 +82,11 @@ If you want to use original pretrained weights for YOLOv3:
 
 ## Some issues to know
 
-1. The test environment is
+1. My test environment is
+    - Python 3.6
+    - Keras 2.2.1
+    - tensorflow 1.13.1
+  The original author's (of keras-yolo3) test environment is
     - Python 3.5.2
     - Keras 2.1.5
     - tensorflow 1.6.0
